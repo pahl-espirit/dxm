@@ -1,0 +1,5 @@
+name: dxm
+title: DXM
+version: '1.0'
+nav:
+- modules/DXM/nav.adoc
