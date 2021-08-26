@@ -1,2 +1,0 @@
-[[uc_shoppages]]
-=== Maintain existing shop pages

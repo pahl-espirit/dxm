@@ -1,7 +1,0 @@
-* Spartacus
-** xref:chapters/introduction.adoc[Main Documentation]
-*** xref:chapters/sapcc-installation/sapcc-installation.adoc[Spartacus - Installation]
-*** xref:chapters/fs-installation/fs-installation.adoc[FirstSpirit - Installation]
-*** xref:chapters/referenceproject/referenceproject.adoc[Reference Project]
-*** xref:chapters/use-cases/use-cases.adoc[Use Cases]
-** xref:FS_Connect_SAP_hl_ServeradminManual_EN.adoc[Admin Manual]
