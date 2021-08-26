@@ -26,7 +26,7 @@ Check out the following quick reference guide to learn how to log into DXM and a
 *Logging in*
 
 . From a web browser, enter your Crownpeak CMS instance URL. 
-   It typically follows this convention: \https://cms.crownpeak.net/*name*
+   It typically follows this convention: \https://cms.crownpeak.net/<name>
 . Enter your username and password and click btn:[Log In].
 
 [NOTE]
