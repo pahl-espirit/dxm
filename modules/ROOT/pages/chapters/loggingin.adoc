@@ -34,6 +34,7 @@ You can located your login information from the email your DXM admin sent you.
 ====
 
 *Configuring the content view*
+
 . From the left menu, click the Content view edit icon.
 The File View appears. 
 The File View contains all of your site content and assets.
