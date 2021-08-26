@@ -1,3 +1,25 @@
+// *********** Konfiguration *********** //
+:lang: de
+:espirit: e-Spirit AG
+:copyright: {espirit}
+:creator: {espirit}
+:publisher: {espirit}
+:toclevels: 4
+:toc-placement: right
+:icons: font
+:sectanchors:
+:experimental:
+:title-logo: firstspirit-logo.png
+:sectnums:
+:source-highlighter: coderay
+ifdef::backend-pdf[]
+:pagenums:
+:pygments-style: bw
+:source-highlighter: pygments
+endif::[]
+:homepage: http://www.e-spirit.com
+:asterisk: &#42;
+
 == Requirements to use DXM
 Crownpeak's DXM CMS lives in the cloud, accessible by the following browsers. There is no installation required.
 

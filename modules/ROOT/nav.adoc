@@ -1,4 +1,3 @@
-* DXM
-** xref:chapters/loggingin.adoc[Logging into DXM]
-** xref:chapters/requirements.adoc[Requirements to use DXM]
-** xref:chapters/setup_firsttime.adoc[Setting up DXM for the first time]
+* xref:chapters/loggingin.adoc[Logging into DXM]
+* xref:chapters/requirements.adoc[Requirements to use DXM]
+* xref:chapters/setup_firsttime.adoc[Setting up DXM for the first time]

@@ -1,3 +1,24 @@
+// *********** Konfiguration *********** //
+:lang: de
+:espirit: e-Spirit AG
+:copyright: {espirit}
+:creator: {espirit}
+:publisher: {espirit}
+:toclevels: 4
+:toc-placement: right
+:icons: font
+:sectanchors:
+:experimental:
+:title-logo: firstspirit-logo.png
+:sectnums:
+:source-highlighter: coderay
+ifdef::backend-pdf[]
+:pagenums:
+:pygments-style: bw
+:source-highlighter: pygments
+endif::[]
+:homepage: http://www.e-spirit.com
+:asterisk: &#42;
 == Logging into DXM
 Check out the following quick reference guide to learn how to log into DXM and arrange the Content view to open the Info panel.
 
