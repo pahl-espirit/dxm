@@ -24,6 +24,7 @@ endif::[]
 Check out the following quick reference guide to learn how to log into DXM and arrange the Content view to open the Info panel.
 
 *Logging in*
+
 . From a web browser, enter your Crownpeak CMS instance URL. 
    It typically follows this convention: \https://cms.crownpeak.net/*name*
 . Enter your username and password and click btn:[Log In].
