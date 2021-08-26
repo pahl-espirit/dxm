@@ -48,4 +48,4 @@ The Info panel appears to the right of your Content view space. You're now ready
 When you first log into DXM, the Dashboard appears by default.
 The https://community.crownpeak.com/t5/Dashboards/tkb-p/dxm_dashboards[Dashboard] is a configurable place for you to easily view the most important tasks and activities on your site.
 
-Learn more about xref:setup_firsttime.adoc[setting up DXM for the first time].
+Learn more about xref:chapters/setup_firsttime.adoc[setting up DXM for the first time].

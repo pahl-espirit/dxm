@@ -20,7 +20,6 @@ endif::[]
 :homepage: http://www.e-spirit.com
 :asterisk: &#42;
 
-[[setup_firsttime]]
 = Setting up DXM for the first time
 In this article, you'll learn how to set up your DXM workspace for the first time.
 
