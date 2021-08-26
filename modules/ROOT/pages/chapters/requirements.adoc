@@ -20,7 +20,7 @@ endif::[]
 :homepage: http://www.e-spirit.com
 :asterisk: &#42;
 
-== Requirements to use DXM
+= Requirements to use DXM
 Crownpeak's DXM CMS lives in the cloud, accessible by the following browsers. There is no installation required.
 
 Supported browsers::
@@ -30,6 +30,8 @@ Supported browsers::
 
 URL access::
 Every customer has a unique instance URL. For example: \https://cms.crownpeak.net/[customername]/
+
+// 
 
 Support::
 * If you're a new user, you should use the temporary password received by email and follow the instructions to reset and login.
